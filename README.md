@@ -2,11 +2,9 @@
 # Amazon-Clone
 
 ## Screenshots:
-![image 1](https://github.com/SAM324674/Amazon-Clone/assets/145093045/a19e13af-7d23-4ba8-898c-aac1f75074f5)
-![image 2](https://github.com/SAM324674/Amazon-Clone/assets/145093045/2b48001f-6ff8-4bc0-bcb8-6fe8a8e2dbb0)
-![image 3](https://github.com/SAM324674/Amazon-Clone/assets/145093045/c9eeecc2-3308-4aab-844e-edee7ffb610b)
-![image 4](https://github.com/SAM324674/Amazon-Clone/assets/145093045/f7f008e6-9c43-493c-8d9a-9f6455ce40a1)
-![image 5](https://github.com/SAM324674/Amazon-Clone/assets/145093045/17dd9830-09bc-4366-ad8f-74be548fdb41)
-
+![image 1](https://github.com/SAM324674/Amazon-Clone/assets/145093045/6200e5a7-9f07-4b14-b18a-812a9a8f06cd)
+![Uploading image 2.png…]()
+![Uploading image 3.png…]()
+![image 5](https://github.com/SAM324674/Amazon-Clone/assets/145093045/7a6ee16a-3122-49a2-9c52-c79c9f14bee1)
 
 
